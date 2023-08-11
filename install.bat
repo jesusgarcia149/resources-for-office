@@ -1,11 +1,21 @@
-powershell.exe "Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))"
+#! /bin/bash
 
-choco install googlechrome -y
-choco install libreoffice -y
-choco install sumatrapdf -y
-choco install anydesk -y
-choco install teamviewer -y
-choco install vlc -y
-choco install wget -y
-wget https://github.com/hellzerg/optimizer/releases/download/15.6/Optimizer-15.6.exe
-wget https://www.3dpchip.com/new/3DP_Chip_v2307.exe
+sudo apt update
+
+sudo apt install wget -y
+wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
+sudo apt update
+sudo apt install google-chrome-stable -y
+
+sudo apt install libreoffice -y
+sudo apt install qpdfview -y
+
+wget https://download.anydesk.com/linux/anydesk_2.9.6-1_amd64.deb 
+sudo dpkg -i https://download.anydesk.com/linux/anydesk_2.9.6-1_amd64.deb
+sudo apt install ./anydesk_2.9.6-1_amd64.deb
+
+wget https://download.teamviewer.com/download/linux/teamviewer_amd64.deb
+sudo apt install ./teamviewer_amd64.deb
+
+sudo apt install vlc -y
