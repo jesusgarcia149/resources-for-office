@@ -4,7 +4,7 @@ choco install googlechrome -y
 choco install libreoffice -y
 choco install naps2 -y
 choco install sumatrapdf -y
-choco install calculator.net -y
+choco install qalculate -y
 
 choco install megasync -y
 choco install anydesk -y
