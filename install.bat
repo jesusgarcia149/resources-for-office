@@ -5,6 +5,6 @@ choco install libreoffice -y
 choco install sumatrapdf -y
 choco install naps2 -y
 
-choco install megasync -y
+choco install googledrive -y
 choco install anydesk -y
 choco install teamviewer -y
