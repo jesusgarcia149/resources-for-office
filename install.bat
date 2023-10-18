@@ -8,3 +8,7 @@ choco install naps2 -y
 choco install googledrive -y
 choco install anydesk -y
 choco install teamviewer -y
+
+choco install wget -y
+wget https://desktop-release.canva.com/Canva%20Setup%201.75.0.exe
+wget https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/installer/capcut_capcutpc_0_1.2.2_downloader.exe
