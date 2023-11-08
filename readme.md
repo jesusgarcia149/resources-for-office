@@ -18,5 +18,5 @@ https://www.teamviewer.com/es-mx/content/free-download-with-license-options/
 https://www.canva.com/download/windows/
 # CapCut
 https://www.capcut.com/download-guidance?download_url=https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/installer/capcut_capcutpc_0_1.2.2_downloader.exe
-# Connectify
-https://connectify.me/download/
+# Omnifyhotspot
+https://treexy.com/products/omnify-hotspot/download/free/
