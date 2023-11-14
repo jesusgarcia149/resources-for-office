@@ -2,6 +2,7 @@ powershell.exe "Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.Se
 
 choco install googlechrome -y
 choco install libreoffice -y
+choco install thunderbird -y
 choco install sumatrapdf -y
 choco install naps2 -y
 
