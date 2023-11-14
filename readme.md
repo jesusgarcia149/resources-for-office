@@ -2,6 +2,8 @@
 
 # Google Chrome
 https://www.google.com/intl/es_es/chrome/
+# Thunderbird
+https://www.thunderbird.net/es-ES/
 # LibreOffice
 https://es.libreoffice.org/descarga/libreoffice/
 # Sumatra PDF
