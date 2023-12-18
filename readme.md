@@ -18,6 +18,8 @@ https://anydesk.com/es
 https://www.teamviewer.com/es-mx/content/free-download-with-license-options/
 # Canva
 https://www.canva.com/download/windows/
+# Remove Background
+https://www.remove.bg/windows-mac-linux/download
 # CapCut
 https://www.capcut.com/download-guidance?download_url=https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/installer/capcut_capcutpc_0_1.2.2_downloader.exe
 # Omnifyhotspot
