@@ -3,25 +3,31 @@
 # Google Chrome
 https://www.google.com/intl/es_es/chrome/
 
-# Documentos de Google sin conexion
-https://chromewebstore.google.com/detail/documentos-de-google-sin/ghbmnnjooekpmoecnnnilnnbdlolhkhi
+# Documents
+## Libreoffice
+https://es.libreoffice.org/descarga/libreoffice/
+## Sumatra PDF
+https://www.sumatrapdfreader.org/download-free-pdf-viewer
+## NAP2S
+https://www.naps2.com/
 
-# Google Drive
+# Cloud
+## Google Drive
 https://www.google.com/intl/es/drive/download/
 
 # Desing
 ## Canva
-https://www.canva.com/es_419/
+https://www.canva.com/es_mx/descargar/windows/
 ## Remove Background
-https://remove.bg/
+https://www.remove.bg/windows-mac-linux/download
 ## Photo Editor
 https://www.photopea.com/
 
 # Video Editor
 ## CapCut
-https://www.capcut.com/my-cloud/7294278578219270145?enter_from=page_header&from_page=work_space
+https://www.capcut.com/download-guidance
 ## Clipchamp
 https://app.clipchamp.com/
 
-# Share Wifi
-https://www.youtube.com/watch?v=oiLyacwqh1o
+# Omnify Hotspot
+https://treexy.com/products/omnify-hotspot/
