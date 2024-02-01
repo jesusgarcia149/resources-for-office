@@ -2,25 +2,26 @@
 
 # Google Chrome
 https://www.google.com/intl/es_es/chrome/
-# Thunderbird
-https://www.thunderbird.net/es-ES/
-# LibreOffice
-https://es.libreoffice.org/descarga/libreoffice/
-# Sumatra PDF
-https://www.sumatrapdfreader.org/download-free-pdf-viewer
-# Naps2
-https://www.naps2.com/download
+
+# Documentos de Google sin conexion
+https://chromewebstore.google.com/detail/documentos-de-google-sin/ghbmnnjooekpmoecnnnilnnbdlolhkhi
+
 # Google Drive
 https://www.google.com/intl/es/drive/download/
-# Anydesk
-https://anydesk.com/es
-# Teamviewer
-https://www.teamviewer.com/es-mx/content/free-download-with-license-options/
-# Canva
-https://www.canva.com/download/windows/
-# Remove Background
-https://www.remove.bg/windows-mac-linux/download
-# CapCut
-https://www.capcut.com/download-guidance?download_url=https://lf16-capcut.faceulv.com/obj/capcutpc-packages-us/installer/capcut_capcutpc_0_1.2.2_downloader.exe
-# Omnifyhotspot
-https://treexy.com/products/omnify-hotspot/download/free/
+
+# Desing
+## Canva
+https://www.canva.com/es_419/
+## Remove Background
+https://remove.bg/
+## Photo Editor
+https://www.photopea.com/
+
+# Video Editor
+## CapCut
+https://www.capcut.com/my-cloud/7294278578219270145?enter_from=page_header&from_page=work_space
+## Clipchamp
+https://app.clipchamp.com/
+
+# Share Wifi
+https://www.youtube.com/watch?v=oiLyacwqh1o
