@@ -1,6 +1,6 @@
 # Resources For Office
 
-## Windows Updated
+## Browser Updated
 - https://github.com/jesusgarcia149/resources-for-office/tree/Windows-Updated
 
 ## Linux Updated
